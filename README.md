@@ -154,17 +154,6 @@
      
 <td width="50%" valign="top">
 
-<h3 align="center"> Bots </h3>
-
-<div align="center">
-     
-| Bot Name    | Status      |
-| ----------- |:-----------:|
-| [Profile Bot](https://github.com/lifeparticle/lifeparticle/blob/master/build_readme.py)          | [![Build README](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/lifeparticle/actions/workflows/python-app.yml)       |
-| [Twitter Tweet Bot](https://github.com/lifeparticle/twitter-tweet-bot/blob/main/build_json.py)   | [![Build Json](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/lifeparticle/twitter-tweet-bot/actions/workflows/python-app.yml)        |
-
-</div>
-
 <h3 align="center"> Cheatsheets </h3>
 
 <div align="left">
@@ -182,20 +171,7 @@
 - [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)                                 
 - [C-Sharp-Cheatsheet](https://github.com/lifeparticle/C-Sharp-Cheatsheet)                           
 - [PHP-Cheatsheet](https://github.com/lifeparticle/PHP-Cheatsheet)                                   
-
-#### Database
-
-- [MySQL-Snippets](https://github.com/lifeparticle/MySQL-Snippets)                                   
-- [PostgreSql-Snippets](https://github.com/lifeparticle/PostgreSql-Snippets)                         
-- [SQLite-Cheatsheet](https://github.com/lifeparticle/SQLite-Cheatsheet)                             
-- [Microsoft-SQL-Server-Cheatsheet](https://github.com/lifeparticle/Microsoft-SQL-Server-Cheatsheet) 
-- [GraphQL-Cheatsheet](https://github.com/lifeparticle/GraphQL-Cheatsheet)
-- [Database-Cheatsheet](https://github.com/lifeparticle/Database-Cheatsheet)                
-
-#### Platform
-
-- [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)
-- [GitHub-Cheatsheet](https://github.com/lifeparticle/GitHub-Cheatsheet)
+          
 
 </div>
 

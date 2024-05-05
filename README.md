@@ -108,7 +108,9 @@
  <td width="100%" valign="top">
   <h3 align="center"> My latest Medium posts </h3>
  </td>
+</tr>
  
+<tr>
 <td width="50%" valign="top">
 
 <h3 align="center"> My latest Medium posts </h3>

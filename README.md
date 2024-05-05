@@ -18,7 +18,7 @@
 
 
 
-<table style="border:0px solid white;>
+<table style="border:0px solid white;">
 <tr>
 <td  width="22%" valign="top">
 

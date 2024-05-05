@@ -121,19 +121,7 @@
 * [How to Automate Your Daily Workflow Using NeoKey Trinkey](https://medium.com/geekculture/how-to-automate-your-daily-workflow-using-neokey-trinkey-7a619597f0e7?source=rss-4430950b9342------2) <br/> <sub>2022-09-04</sub>
 * [How to Create a React Application With Deno](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
 <!-- blog ends -->
-     
-<h3 align="center"> Dev Setup </h3>
-
-<div align="left">
-
-- [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)
-- [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)
-- [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)
-- [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)
-- [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers)
-
-<!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
-</div>
+    
 
 <h3 align="center"> Starter Templates </h3>
 
@@ -209,13 +197,6 @@
 
 - [Vercel-Cheatsheet](https://github.com/lifeparticle/Vercel-Cheatsheet)
 - [GitHub-Cheatsheet](https://github.com/lifeparticle/GitHub-Cheatsheet)
-
-#### Others
-
-- [Markdown-Cheatsheet](https://github.com/lifeparticle/Markdown-Cheatsheet)                         
-- [JSON-Cheatsheet](https://github.com/lifeparticle/JSON-Cheatsheet)                                 
-- [Git-Cheatsheet](https://github.com/lifeparticle/Git-Cheatsheet)                                   
-- [Terminal-Commands-Cheatsheet](https://github.com/lifeparticle/Terminal-Commands-Cheatsheet)            
 
 </div>
 

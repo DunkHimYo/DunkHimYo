@@ -70,10 +70,6 @@
  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unreal" width="65" height="30"/> </a> </p>
 </td>
 
-<td>
- <h3 align="left">OS:</h3>
- <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="65" height="30"/> </a>  
-</td>
 
 <td  width="20%" valign="top">
 <h3 align="left">DataBase:</h3>
@@ -91,6 +87,11 @@
   <h3 align="left">MCU/MPU:</h3>
  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" width="65" height="30"/> </a> 
   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="raspbery" width="65" height="30"/> </a> 
+</td>
+
+<td>
+ <h3 align="left">OS:</h3>
+ <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="65" height="30"/> </a>  
 </td>
 </tr>
 

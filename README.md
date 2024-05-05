@@ -25,12 +25,14 @@
 </td>
 
 <td  width="20%" valign="top">
- <h3 align="left">ML/DL:</h3>
- <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow" width="65" height="30"/> </a> 
- <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" width="65" height="30"/> </a> 
- <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" width="65" height="30"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn" width="65" height="30"/> </a> 
+<h3 align="left">DataAcquisition:</h3>
+ <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" width="65" height="30"/> </a> 
+ <a href="https://requests.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/C4E12AQFncA0AxujAng/article-cover_image-shrink_600_2000/0/1520086554238?e=2147483647&v=beta&t=ZvpayB6CfpbF7YCWJlynIyYqkBR23iRZpj2kd2XDR5E" alt="selenium" width="65" height="30"/> </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/media/FvEJA_wWYCQHX24.jpg" alt="emotiv" width="65" height="30"/> </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vive-wordmark-1.svg" alt="vive" width="65" height="30"/> </a> 
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/DunkHimYo/DunkHimYo/assets/57661649/6123ae7d-b98c-42f6-ba7f-acfdb6c502e4" alt="vive" width="65" height="30"/> </a> 
 </td>
+
 
 <td width="20%" valign="top">
  <h3 align="left">DataProcessing:</h3>
@@ -43,14 +45,12 @@
 </td>
 
 <td  width="20%" valign="top">
-<h3 align="left">DataAcquisition:</h3>
- <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" width="65" height="30"/> </a> 
- <a href="https://requests.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/C4E12AQFncA0AxujAng/article-cover_image-shrink_600_2000/0/1520086554238?e=2147483647&v=beta&t=ZvpayB6CfpbF7YCWJlynIyYqkBR23iRZpj2kd2XDR5E" alt="selenium" width="65" height="30"/> </a> 
- <a href="" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/media/FvEJA_wWYCQHX24.jpg" alt="emotiv" width="65" height="30"/> </a> 
- <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vive-wordmark-1.svg" alt="vive" width="65" height="30"/> </a> 
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/DunkHimYo/DunkHimYo/assets/57661649/6123ae7d-b98c-42f6-ba7f-acfdb6c502e4" alt="vive" width="65" height="30"/> </a> 
+ <h3 align="left">ML/DL:</h3>
+ <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow" width="65" height="30"/> </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="keras" width="65" height="30"/> </a> 
+ <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch" width="65" height="30"/> </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
+   <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit_learn" width="65" height="30"/> </a> 
 </td>
-
 
 <td width="20%" valign="top">
  <h3 align="left">Visualization:</h3>
@@ -59,8 +59,6 @@
  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly" width="65" height="30"/> </a>  
 </td>
 
-
-
 </tr>
 <tr>
  
@@ -68,13 +66,6 @@
  <h3 align="left">AR/VR:</h3>
  <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" width="65" height="30"/> </a> 
  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unreal" width="65" height="30"/> </a> </p>
-</td>
-
-
-<td  width="20%" valign="top">
-<h3 align="left">DataBase:</h3>
- <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" width="65" height="30"/> </a> 
- <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="65" height="30"/> </a>
 </td>
 
 <td>
@@ -89,6 +80,12 @@
   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="raspbery" width="65" height="30"/> </a> 
 </td>
 
+
+<td  width="20%" valign="top">
+<h3 align="left">DataBase:</h3>
+ <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="oracle" width="65" height="30"/> </a> 
+ <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" width="65" height="30"/> </a>
+</td>
 <td>
  <h3 align="left">OS:</h3>
  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="65" height="30"/> </a>  

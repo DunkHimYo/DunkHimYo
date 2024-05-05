@@ -105,7 +105,7 @@
 
 <table>
 <tr>
- <td width="100%" valign="top">
+ <td width="100%" valign="top",colspan="2">
   <h3 align="center"> My latest Medium posts </h3>
  </td>
 </tr>

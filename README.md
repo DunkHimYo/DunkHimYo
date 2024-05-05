@@ -112,13 +112,7 @@
 * [가상현실 속 치매조기진단을 위한 VR 디지털 바이오마커](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2) <br/> <sub>2024-01-08</sub>
 * [사용자의도인식을 위한 C-LSTM알고리즘 기반 BCI 뉴로로보틱스 시스템](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
 * [게임 컨텐츠와 EEG를 이용한 CNN기반 ADHD 진단 시스템](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2) <br/> <sub>2023-06-30</sub>
-* [물품 재고 관린 시스템](https://levelup.gitconnected.com/3-critical-lessons-programmers-can-learn-from-the-futurestack-tech-conference-4188c14edb11?source=rss-4430950b9342------2) <br/> <sub>2023-02-16</sub>
-* [LDA 기반 주식 토픽 시각화 프로그램](https://python.plainenglish.io/how-to-deploy-a-flask-application-to-render-2a70e4d55919?source=rss-4430950b9342------2) <br/> <sub>2022-12-27</sub>
-* [EEG신호를 이용한 집중력 뉴로 피드백 시스템](https://medium.com/geekculture/how-to-create-and-connect-to-a-postgresql-database-with-render-and-pgadmin-577b326fd19d?source=rss-4430950b9342------2) <br/> <sub>2022-12-03</sub>
-* [BCI 기술을 적용한 이륜차 안전 헬멧](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-render-611ef3aca84a?source=rss-4430950b9342------2) <br/> <sub>2022-11-25</sub>
-* [현장 안전 스마트 헬멧](https://medium.com/geekculture/how-to-automate-your-daily-workflow-using-neokey-trinkey-7a619597f0e7?source=rss-4430950b9342------2) <br/> <sub>2022-09-04</sub>
-* [아파트 관리 시스템](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
-* [스마트 부표 시스템](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
+
 <!-- blog ends -->
     
 
@@ -155,6 +149,13 @@
 <td width="50%" valign="top">
 
 <h3 align="center"> SideProject </h3>
+* [물품 재고 관린 시스템](https://levelup.gitconnected.com/3-critical-lessons-programmers-can-learn-from-the-futurestack-tech-conference-4188c14edb11?source=rss-4430950b9342------2) <br/> <sub>2023-02-16</sub>
+* [LDA 기반 주식 토픽 시각화 프로그램](https://python.plainenglish.io/how-to-deploy-a-flask-application-to-render-2a70e4d55919?source=rss-4430950b9342------2) <br/> <sub>2022-12-27</sub>
+* [EEG신호를 이용한 집중력 뉴로 피드백 시스템](https://medium.com/geekculture/how-to-create-and-connect-to-a-postgresql-database-with-render-and-pgadmin-577b326fd19d?source=rss-4430950b9342------2) <br/> <sub>2022-12-03</sub>
+* [BCI 기술을 적용한 이륜차 안전 헬멧](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-render-611ef3aca84a?source=rss-4430950b9342------2) <br/> <sub>2022-11-25</sub>
+* [현장 안전 스마트 헬멧](https://medium.com/geekculture/how-to-automate-your-daily-workflow-using-neokey-trinkey-7a619597f0e7?source=rss-4430950b9342------2) <br/> <sub>2022-09-04</sub>
+* [아파트 관리 시스템](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
+* [스마트 부표 시스템](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
 
 <div align="left">
 

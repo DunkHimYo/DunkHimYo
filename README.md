@@ -1,15 +1,4 @@
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: none;
-}
-blockquote {
-    border-left: none;
-    padding-left: 10px;
-}
-</style>
+
 
 <h1 align="center">Hi 👋, I'm Dohyun</h1>
 
@@ -29,7 +18,7 @@ blockquote {
 
 
 
-<table>
+<table style="border:0px solid white;>
 <tr>
 <td  width="22%" valign="top">
 

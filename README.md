@@ -104,7 +104,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"> Research Outcome </h3>
+<h3 align="left"> Research Outcome </h3>
 
 <!-- blog starts -->
 
@@ -116,7 +116,7 @@
 <!-- blog ends -->
     
 
-<h3 align="center"> Research Project </h3>
+<h3 align="left"> Research Project </h3>
 
 <!-- blog starts -->
 
@@ -154,7 +154,7 @@
      
 <td width="50%" valign="top">
 
-<h3 align="center"> SideProject </h3>
+<h3 align="left"> SideProject </h3>
 <!-- blog starts -->
 
 * [물품 재고 관린 시스템](https://levelup.gitconnected.com/3-critical-lessons-programmers-can-learn-from-the-futurestack-tech-conference-4188c14edb11?source=rss-4430950b9342------2) <br/> <sub>2023-02-16</sub>

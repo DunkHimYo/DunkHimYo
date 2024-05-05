@@ -43,7 +43,7 @@
 
 <td  width="20%" valign="top">
 <h3 align="left">DataAcquisition:</h3>
- <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> 
+ <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" width="40" height="40"/> </a> 
 </td>
 
 <td width="20%" valign="top">

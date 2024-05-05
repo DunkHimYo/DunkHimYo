@@ -104,7 +104,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"> My latest Medium posts </h3>
+<h3 align="center"> ResearchOutcomes </h3>
 
 <!-- blog starts -->
 
@@ -154,7 +154,7 @@
      
 <td width="50%" valign="top">
 
-<h3 align="center"> Cheatsheets </h3>
+<h3 align="center"> SideProject </h3>
 
 <div align="left">
 

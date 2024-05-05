@@ -82,7 +82,8 @@
 
 <td>
   <h3 align="left">GUI:</h3>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
+<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" width="65" height="30"/> </a>  
+ <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="qt" width="65" height="30"/> </a> 
  
 </td>
  <td width="20%" valign="top">

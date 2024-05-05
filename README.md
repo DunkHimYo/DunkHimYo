@@ -110,8 +110,8 @@
 <h3 align="center"> My latest Medium posts </h3>
 
 <!-- blog starts -->
-* [How to Navigate Your Software Development Career](https://levelup.gitconnected.com/how-to-navigate-your-software-development-career-b2f05f398672?source=rss-4430950b9342------2) <br/> <sub>2024-03-11</sub>
-* [Efficient Way to Develop Your ReactJS Project Using Scaffdog](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2) <br/> <sub>2024-01-08</sub>
+* [VR-EP-EEG-MRI 디지털 바이오마커 기초 연구실](https://levelup.gitconnected.com/how-to-navigate-your-software-development-career-b2f05f398672?source=rss-4430950b9342------2) <br/> <sub>2024-03-11</sub>
+* [가상현실 속 치매조기진단을 위한 VR 디지털 바이오마커](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2) <br/> <sub>2024-01-08</sub>
 * [A Time-Saving Guide to Creating a React.js Project from Scratch](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
 * [How To Deploy a React Application to GitHub Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2) <br/> <sub>2023-06-30</sub>
 * [3 Critical Lessons Programmers Can Learn From the FutureStack Tech Conference](https://levelup.gitconnected.com/3-critical-lessons-programmers-can-learn-from-the-futurestack-tech-conference-4188c14edb11?source=rss-4430950b9342------2) <br/> <sub>2023-02-16</sub>

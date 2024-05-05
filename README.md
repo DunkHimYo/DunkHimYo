@@ -18,7 +18,7 @@
 
 <table style="border:0px solid white; width:100%;">
 <tr>
-<td  width="20%" valign="top">
+<td  width="20%" valign="center">
 
 <h3 align="left">Languages:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="python" width="100" height="30"/> </a> 

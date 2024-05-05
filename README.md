@@ -37,7 +37,7 @@
  <h3 align="left">DataProcessing:</h3>
  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white" alt="opencv" width="65" height="30"/> </a>
  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="opencv" width="65" height="30"/> </a>
- <a href="" target="_blank" rel="noreferrer"> <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpypi.org%2Fproject%2Fmne%2F&psig=AOvVaw2UZ3_LAPl4HNDNlZrLs45t&ust=1714979599092000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLCl___69YUDFQAAAAAdAAAAABAe" alt="mne" width="65" height="30"/> </a>
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://mne.tools/dev/" alt="mne" width="65" height="30"/> </a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="65" height="30"/> </a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scipy" width="65" height="30"/> </a>
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="65" height="30"/> </a>

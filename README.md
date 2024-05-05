@@ -16,7 +16,7 @@
 
 
 
-<table style='display：none'>
+<table boarder="0">
 <tr>
 <td  width="22%" valign="top">
 

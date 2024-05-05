@@ -68,7 +68,7 @@
  <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white" alt="unreal" width="65" height="30"/> </a> </p>
 </td>
 
-<td>
+<td width="20%" valign="top">
   <h3 align="left">GUI:</h3>
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="android" width="65" height="30"/> </a>  
  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white" alt="qt" width="65" height="30"/> </a> 

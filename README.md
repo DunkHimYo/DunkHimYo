@@ -103,13 +103,8 @@
 <!-- Continuous Improvement Programme - CIP -->
 
 
+<h3 align="center"> My latest Medium posts </h3>
 <table>
-<tr>
- <td width="100%" valign="top",colspan="2">
-  <h3 align="center"> My latest Medium posts </h3>
- </td>
-</tr>
- 
 <tr>
 <td width="50%" valign="top">
 

@@ -16,7 +16,7 @@
 
 <!-- https://cyber.dabamos.de/88x31/hell0.gif -->
 
-<table>
+<table style="border:0px solid white; width:100%;">
 <tr>
 <td  width="20%" valign="top">
 

@@ -21,10 +21,7 @@
 <h3 align="left">GUI:</h3>
 <p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>  <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> 
  </td>
-</tr>
-</table>
- <table>
-<tr>
+
 <td align="center">
 
  <h3 align="left">AR/VR:</h3>

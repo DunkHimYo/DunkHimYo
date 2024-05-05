@@ -104,7 +104,7 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center"> ResearchOutcomes </h3>
+<h3 align="center"> Research Outcome </h3>
 
 <!-- blog starts -->
 
@@ -116,10 +116,16 @@
 <!-- blog ends -->
     
 
-<h3 align="center"> Starter Templates </h3>
+<h3 align="center"> Research Project </h3>
 
-- [ReactJS starter templates](https://github.com/lifeparticle/reactjs-starter-templates)
+<!-- blog starts -->
 
+* [VR-EP-EEG-MRI 디지털 바이오마커 기초 연구실](https://ieeexplore.ieee.org/abstract/document/10457109) <br/> <sub>2024-03-11</sub>
+* [가상현실 속 치매조기진단을 위한 VR 디지털 바이오마커](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2) <br/> <sub>2024-01-08</sub>
+* [사용자의도인식을 위한 C-LSTM알고리즘 기반 BCI 뉴로로보틱스 시스템](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
+* [게임 컨텐츠와 EEG를 이용한 CNN기반 ADHD 진단 시스템](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2) <br/> <sub>2023-06-30</sub>
+
+<!-- blog ends -->
 <h3 align="center"> Stat </h3>
 
 <table>

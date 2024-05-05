@@ -47,6 +47,7 @@
  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" width="65" height="30"/> </a> 
  <a href="https://requests.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/C4E12AQFncA0AxujAng/article-cover_image-shrink_600_2000/0/1520086554238?e=2147483647&v=beta&t=ZvpayB6CfpbF7YCWJlynIyYqkBR23iRZpj2kd2XDR5E" alt="selenium" width="65" height="30"/> </a> 
  <a href="" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/media/FvEJA_wWYCQHX24.jpg" alt="emotiv" width="65" height="30"/> </a> 
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vive-wordmark-1.svg" alt="vive" width="65" height="30"/> </a> 
 
 </td>
 

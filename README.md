@@ -16,7 +16,7 @@
 
 
 
-<table style="display:none;">
+<table>
 <tr>
 <td  width="22%" valign="top">
 
@@ -193,3 +193,15 @@
 </div>
 
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: none;
+}
+blockquote {
+    border-left: none;
+    padding-left: 10px;
+}
+</style>

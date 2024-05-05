@@ -175,20 +175,6 @@
 * [스마트 부표 시스템](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
 <!-- blog ends -->
 
-#### Web/Front-end
-
-- [HTML-Cheatsheet](https://github.com/lifeparticle/HTML-Cheatsheet)                                 
-- [CSS-Cheatsheet](https://github.com/lifeparticle/CSS-Cheatsheet)                                   
-- [JS-Cheatsheet](https://github.com/lifeparticle/JS-Cheatsheet) 
-
-#### Back-end 
-
-- [Ruby-Cheatsheet](https://github.com/lifeparticle/Ruby-Cheatsheet)                                 
-- [Python-Cheatsheet](https://github.com/lifeparticle/Python-Cheatsheet)                             
-- [Java-Cheatsheet](https://github.com/lifeparticle/Java-Cheatsheet)                                 
-- [C-Sharp-Cheatsheet](https://github.com/lifeparticle/C-Sharp-Cheatsheet)                           
-- [PHP-Cheatsheet](https://github.com/lifeparticle/PHP-Cheatsheet)                                   
-          
 
 </div>
 

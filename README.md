@@ -7,6 +7,40 @@
 <p align="left">
 </p>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center"> My latest Medium posts </h3>
+
+<!-- blog starts -->
+* [How to Navigate Your Software Development Career](https://levelup.gitconnected.com/how-to-navigate-your-software-development-career-b2f05f398672?source=rss-4430950b9342------2) <br/> <sub>2024-03-11</sub>
+* [Efficient Way to Develop Your ReactJS Project Using Scaffdog](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2) <br/> <sub>2024-01-08</sub>
+* [A Time-Saving Guide to Creating a React.js Project from Scratch](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
+* [How To Deploy a React Application to GitHub Pages](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2) <br/> <sub>2023-06-30</sub>
+* [3 Critical Lessons Programmers Can Learn From the FutureStack Tech Conference](https://levelup.gitconnected.com/3-critical-lessons-programmers-can-learn-from-the-futurestack-tech-conference-4188c14edb11?source=rss-4430950b9342------2) <br/> <sub>2023-02-16</sub>
+* [How to Deploy a Flask Application to Render](https://python.plainenglish.io/how-to-deploy-a-flask-application-to-render-2a70e4d55919?source=rss-4430950b9342------2) <br/> <sub>2022-12-27</sub>
+* [How to Create and Connect to a PostgreSQL Database With Render and pgAdmin](https://medium.com/geekculture/how-to-create-and-connect-to-a-postgresql-database-with-render-and-pgadmin-577b326fd19d?source=rss-4430950b9342------2) <br/> <sub>2022-12-03</sub>
+* [How to Deploy a React Application to Render](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-render-611ef3aca84a?source=rss-4430950b9342------2) <br/> <sub>2022-11-25</sub>
+* [How to Automate Your Daily Workflow Using NeoKey Trinkey](https://medium.com/geekculture/how-to-automate-your-daily-workflow-using-neokey-trinkey-7a619597f0e7?source=rss-4430950b9342------2) <br/> <sub>2022-09-04</sub>
+* [How to Create a React Application With Deno](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
+<!-- blog ends -->
+     
+<h3 align="center"> Dev Setup </h3>
+
+<div align="left">
+
+- [Cosmic-Terminal](https://github.com/lifeparticle/Cosmic-Terminal)
+- [Cosmic-Sublime](https://github.com/lifeparticle/Cosmic-Sublime)
+- [Cosmic-VSCode](https://github.com/lifeparticle/Cosmic-VSCode)
+- [Cosmic-Windows-Terminal](https://github.com/lifeparticle/Cosmic-Windows-Terminal)
+- [Desk-Setups-for-Programmers](https://github.com/lifeparticle/Desk-Setups-for-Programmers)
+
+<!-- | [Cosmic-Mac](https://github.com/lifeparticle/Cosmic-Mac)    | -->
+</div>
+
+
+
 <h3 align="left">Languages:</h3>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> 

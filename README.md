@@ -1,4 +1,4 @@
-
+![image](https://github.com/DunkHimYo/DunkHimYo/assets/57661649/41123eb7-77ca-40a3-ab8e-5f71f8a3a490)
 <h1 align="center">Hi 👋, I'm Dohyun</h1>
 
 <img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="right">
@@ -107,11 +107,17 @@
 <h3 align="left"> Research Outcome </h3>
 
 <!-- blog starts -->
-
-* [VR-EP-EEG-MRI 디지털 바이오마커 기초 연구실](https://ieeexplore.ieee.org/abstract/document/10457109) <br/> <sub>2024-03-11</sub>
-* [가상현실 속 치매조기진단을 위한 VR 디지털 바이오마커](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2) <br/> <sub>2024-01-08</sub>
+[해외저널]
+* [Exploring the Relationship between Behavioral and Neurological Impairments due to Mild Cognitive Impairment: Correlation Study between Virtual Kiosk Test and EEG-SSVEP)](https://ieeexplore.ieee.org/abstract/document/10457109) <br/> <sub>2024-03-11</sub>
+* [Deep learning model for early screening of  patients with Alzheimer＇s disease and mild cognitive impairment using EEG-SSVEP](https://ieeexplore.ieee.org/abstract/document/10457109) <br/> <sub>2024-03-11</sub>
+[해외학회]
+* [Early Screening of Mild Cognitive Impairment using Multimodal VR-EP-EEG-MRI (VEEM) Biomarkers via Machine Learning](https://ieeexplore.ieee.org/abstract/document/10457109) <br/> <sub>2024-03-11</sub>
+[국내저널]
+* [게임 컨텐츠와 EEG를 이용한 CNN 기반 아동 ADHD 진단 시스템](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2) <br/> <sub>2024-01-08</sub>
+[국내학회]
+* [Deep learning model for early screening of patients with Alzheimer's disease and mild cognitive impairment using EEG-SSVEP](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
+* [뇌파기반 다감각전시경험 확장:과학전시물에서 예술전시로](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
 * [사용자의도인식을 위한 C-LSTM알고리즘 기반 BCI 뉴로로보틱스 시스템](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
-* [게임 컨텐츠와 EEG를 이용한 CNN기반 ADHD 진단 시스템](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2) <br/> <sub>2023-06-30</sub>
 
 <!-- blog ends -->
     

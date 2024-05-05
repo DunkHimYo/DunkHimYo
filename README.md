@@ -149,6 +149,7 @@
 <td width="50%" valign="top">
 
 <h3 align="center"> SideProject </h3>
+<!-- blog starts -->
 * [물품 재고 관린 시스템](https://levelup.gitconnected.com/3-critical-lessons-programmers-can-learn-from-the-futurestack-tech-conference-4188c14edb11?source=rss-4430950b9342------2) <br/> <sub>2023-02-16</sub>
 * [LDA 기반 주식 토픽 시각화 프로그램](https://python.plainenglish.io/how-to-deploy-a-flask-application-to-render-2a70e4d55919?source=rss-4430950b9342------2) <br/> <sub>2022-12-27</sub>
 * [EEG신호를 이용한 집중력 뉴로 피드백 시스템](https://medium.com/geekculture/how-to-create-and-connect-to-a-postgresql-database-with-render-and-pgadmin-577b326fd19d?source=rss-4430950b9342------2) <br/> <sub>2022-12-03</sub>
@@ -156,7 +157,7 @@
 * [현장 안전 스마트 헬멧](https://medium.com/geekculture/how-to-automate-your-daily-workflow-using-neokey-trinkey-7a619597f0e7?source=rss-4430950b9342------2) <br/> <sub>2022-09-04</sub>
 * [아파트 관리 시스템](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
 * [스마트 부표 시스템](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
-
+<!-- blog ends -->
 <div align="left">
 
 #### Web/Front-end

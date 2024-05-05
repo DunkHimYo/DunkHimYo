@@ -1,4 +1,4 @@
-
+![image](https://github.com/DunkHimYo/DunkHimYo/assets/57661649/07645580-c47e-429a-9b9a-2506196b0773)
 <h1 align="center">Hi 👋, I'm Dohyun</h1>
 
 <img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="right">
@@ -48,7 +48,7 @@
  <a href="https://requests.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/C4E12AQFncA0AxujAng/article-cover_image-shrink_600_2000/0/1520086554238?e=2147483647&v=beta&t=ZvpayB6CfpbF7YCWJlynIyYqkBR23iRZpj2kd2XDR5E" alt="selenium" width="65" height="30"/> </a> 
  <a href="" target="_blank" rel="noreferrer"> <img src="https://pbs.twimg.com/media/FvEJA_wWYCQHX24.jpg" alt="emotiv" width="65" height="30"/> </a> 
  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vive-wordmark-1.svg" alt="vive" width="65" height="30"/> </a> 
-
+<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/DunkHimYo/DunkHimYo/assets/57661649/6123ae7d-b98c-42f6-ba7f-acfdb6c502e4" alt="vive" width="65" height="30"/> </a> 
 </td>
 
 

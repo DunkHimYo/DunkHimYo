@@ -183,16 +183,4 @@
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=lifeparticle&theme=highcontrast&hide_border=true" width="350" /></a>
 </div>
 
-<!-- programmer_humor_img starts -->
-<a href="https://imgur.com/r/ProgrammerHumor/NDrcV6Q"><img max-height="400" width="350" src="https://i.imgur.com/NDrcV6Q.png"></a>
-<!-- programmer_humor_img ends -->
-
-[<img height="24" width="24" src="https://cdn.jsdelivr.net/npm/simple-icons@4.8.0/icons/linktree.svg" />][linktree]
-![](https://komarev.com/ghpvc/?username=lifeparticle&style=flat&color=313131&label=views) ![Static Badge](https://img.shields.io/badge/Since%20Jul%205%2C%202023-white?color=30363C)
-
-     
-[linktree]: https://linktr.ee/lifeparticle
-[gist]: https://gist.github.com/lifeparticle
-[aurthohin]: https://github.com/lifeparticle/Aurthohin
-
 

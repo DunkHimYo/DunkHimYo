@@ -1,13 +1,8 @@
-<h1 align="center">Hi 👋, I'm Dohyun</h1><img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="right">
+<h1 align="center">Hi 👋, I'm Dohyun</h1>
 
-
-
-
-
-<p align="left"> 
- <img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="left">
- <h3 align="center">Welcome to Dohyun's Github</h3> 
-</p>
+<img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="right">
+<img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="left">
+<h3 align="center">Welcome to Dohyun's Github</h3> 
 
 <div>
 

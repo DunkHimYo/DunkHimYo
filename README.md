@@ -36,6 +36,7 @@
 <td width="20%" valign="top">
  <h3 align="left">DataProcessing:</h3>
  <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="65" height="30"/> </a>
+ <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Apache%20Spark-FDEE21?style=flat-square&logo=apachespark&logoColor=black" alt="opencv" width="65" height="30"/> </a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" width="65" height="30"/> </a>
  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white" alt="scipy" width="65" height="30"/> </a>
  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas" width="65" height="30"/> </a>
@@ -43,7 +44,7 @@
 
 <td  width="20%" valign="top">
 <h3 align="left">DataAcquisition:</h3>
- <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" width="40" height="40"/> </a> 
+ <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" width="65" height="30"/> </a> 
 </td>
 
 <td width="20%" valign="top">

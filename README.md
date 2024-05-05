@@ -158,7 +158,6 @@
 * [아파트 관리 시스템](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
 * [스마트 부표 시스템](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
 <!-- blog ends -->
-<div align="left">
 
 #### Web/Front-end
 

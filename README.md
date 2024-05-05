@@ -45,7 +45,7 @@
 <td  width="20%" valign="top">
 <h3 align="left">DataAcquisition:</h3>
  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" width="65" height="30"/> </a> 
- <a href="https://requests.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" alt="selenium" width="65" height="30"/> </a> 
+ <a href="https://requests.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://media.licdn.com/dms/image/C4E12AQFncA0AxujAng/article-cover_image-shrink_600_2000/0/1520086554238?e=2147483647&v=beta&t=ZvpayB6CfpbF7YCWJlynIyYqkBR23iRZpj2kd2XDR5E" alt="selenium" width="65" height="30"/> </a> 
 </td>
 
 <td width="20%" valign="top">
@@ -83,8 +83,8 @@
 </td>
  <td width="20%" valign="top">
   <h3 align="left">MCU/MPU:</h3>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" width="65" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="raspbery" width="65" height="40"/> </a> 
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" width="65" height="30"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="raspbery" width="65" height="30"/> </a> 
 </td>
 </tr>
 

@@ -82,8 +82,8 @@
 </td>
  <td width="20%" valign="top">
   <h3 align="left">MCU/MPU:</h3>
- <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" width="40" height="40"/> </a> 
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="raspbery" width="40" height="40"/> </a> 
+ <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="arduino" width="65" height="40"/> </a> 
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi" alt="raspbery" width="65" height="40"/> </a> 
 </td>
 </tr>
 

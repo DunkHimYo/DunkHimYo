@@ -50,9 +50,9 @@
 
 <td width="20%" valign="top">
  <h3 align="left">Visualization:</h3>
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib" width="65" height="30"/> </a>
  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fit:2000/format:webp/1*gM_WIfx7MXOO7jzsPm-Y0Q.png" alt="seaborn" width="65" height="30"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib" width="65" height="30"/> </a>
-  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly" width="65" height="30"/> </a>  
+ <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly" width="65" height="30"/> </a>  
 </td>
 
 

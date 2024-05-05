@@ -45,6 +45,7 @@
 <td  width="20%" valign="top">
 <h3 align="left">DataAcquisition:</h3>
  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="selenium" width="65" height="30"/> </a> 
+ <a href="https://requests.readthedocs.io/" target="_blank" rel="noreferrer"> <img src="https://requests.readthedocs.io/en/latest/_static/requests-sidebar.png" alt="selenium" width="65" height="30"/> </a> 
 </td>
 
 <td width="20%" valign="top">

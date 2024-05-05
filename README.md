@@ -50,7 +50,7 @@
 
 <td width="20%" valign="top">
  <h3 align="left">Visualization:</h3>
- <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="65" height="30"/> </a>
+ <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/315810/92254578-1bb0be00-ee9f-11ea-986a-fd875f2eadc6.png" alt="seaborn" width="65" height="30"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="matplotlib" width="65" height="30"/> </a>
   <a href="" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="plotly" width="65" height="30"/> </a>  
 </td>

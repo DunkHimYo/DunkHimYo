@@ -134,26 +134,6 @@
 * [게임 컨텐츠와 EEG를 이용한 CNN기반 ADHD 진단 시스템](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2) <br/> <sub>2023-06-30</sub>
 
 <!-- blog ends -->
-<h3 align="center"> Stat </h3>
-
-<table>
-<tr>
-<td align="center">
-
-[![pr](https://img.shields.io/badge/Closed-32C754?label=Pull%20Requests&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Apr+is%3Aclosed+author%3Alifeparticle&type=pullrequests)
-
-[![pr](https://img.shields.io/badge/Open-ff9a00?label=Pull%20Requests&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Apr+is%3Aopen+author%3Alifeparticle&type=pullrequests)
-
-</td>
-<td align="center">
- 
-[![issue](https://img.shields.io/badge/Closed-32C754?label=Issues&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Aissue%20is%3Aclosed%20author%3Alifeparticle&type=issues)
-
-[![issue](https://img.shields.io/badge/Open-ff9a00?label=Issues&labelColor=30363C&logo=pull%20request)](https://github.com/search?q=is%3Aissue+is%3Aopen++author%3Alifeparticle&type=issues)
-
-</td>
-</tr>
-</table>
  
 [![Github gists](https://gist-count.vercel.app/api?username=lifeparticle)](https://gist.github.com/lifeparticle)
 

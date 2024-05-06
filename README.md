@@ -135,7 +135,7 @@
 
 <!-- blog ends -->
  
-[![Github gists](https://gist-count.vercel.app/api?username=lifeparticle)](https://gist.github.com/lifeparticle)
+[![Github gists](https://gist-count.vercel.app/api?username=lifeparticle)](https://gist.github.com/dunkhimyo)
 
 </td>
 

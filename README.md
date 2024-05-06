@@ -134,9 +134,6 @@
 * [게임 컨텐츠와 EEG를 이용한 CNN기반 ADHD 진단 시스템](https://javascript.plainenglish.io/how-to-deploy-a-react-application-to-github-pages-e4f8890e1213?source=rss-4430950b9342------2) <br/> <sub>2023-06-30</sub>
 
 <!-- blog ends -->
- 
-[![Github gists](https://gist-count.vercel.app/api?username=lifeparticle)](https://gist.github.com/dunkhimyo)
-
 </td>
 
      

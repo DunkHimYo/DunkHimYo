@@ -1,4 +1,3 @@
-![image](https://github.com/DunkHimYo/DunkHimYo/assets/57661649/41123eb7-77ca-40a3-ab8e-5f71f8a3a490)
 <h1 align="center">Hi 👋, I'm Dohyun</h1>
 
 <img src="https://user-images.githubusercontent.com/1612112/213943678-c34cb1a9-94f9-4be0-86dd-8e2227fa4b8c.gif" alt="hello" align="right">

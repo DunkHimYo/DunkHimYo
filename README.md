@@ -174,9 +174,9 @@
 * [스마트 부표 시스템](https://medium.com/geekculture/how-to-create-a-react-application-with-deno-4518db39c5ab?source=rss-4430950b9342------2) <br/> <sub>2022-07-30</sub>
 <!-- blog ends -->
 
-<div align="left">
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=dunkhimyo&theme=dark&show_icons=true" width="350" align="right" /></a>
-</div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=dunkhimyo&theme=dark&show_icons=true" width="350" align="center" /></a>
+
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=dunkhimyo&theme=highcontrast&hide_border=true" width="350" /></a>
 </div>

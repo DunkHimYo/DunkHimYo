@@ -176,10 +176,7 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=dunkhimyo&theme=dark&show_icons=true" width="350" align="center" /></a>
-
-<div align="center">
 <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=dunkhimyo&theme=highcontrast&hide_border=true" width="350" /></a>
-</div>
 
 ![line](https://user-images.githubusercontent.com/1612112/89610802-d9f02000-d8be-11ea-873f-aa51c23073e5.png)
 </td>

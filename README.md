@@ -114,7 +114,7 @@
 * [Early Screening of Mild Cognitive Impairment using Multimodal VR-EP-EEG-MRI (VEEM) Biomarkers via Machine Learning](https://ieeexplore.ieee.org/abstract/document/10457109) <br/> <sub>2024-03-11</sub>
 
 #### [국내저널]
-* [게임 컨텐츠와 EEG를 이용한 CNN 기반 아동 ADHD 진단 시스템](https://levelup.gitconnected.com/efficient-way-to-develop-your-reactjs-project-using-scaffdog-8d7ecddfbd29?source=rss-4430950b9342------2) <br/> <sub>2024-01-08</sub>
+* [게임 컨텐츠와 EEG를 이용한 CNN 기반 아동 ADHD 진단 시스템](https://scholar.kyobobook.co.kr/article/detail/4010036915531) <br/> <sub>2024-01-08</sub>
 
 #### [국내학회]
 * [Deep learning model for early screening of patients with Alzheimer's disease and mild cognitive impairment using EEG-SSVEP](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>

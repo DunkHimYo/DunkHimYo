@@ -119,7 +119,7 @@
 #### [국내학회]
 * [Deep learning model for early screening of patients with Alzheimer's disease and mild cognitive impairment using EEG-SSVEP](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11229750&googleIPSandBox=false&mark=0&minRead=10&ipRange=false&b2cLoginYN=false&aiChatView=A&readTime=10-15&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true) <br/> <sub>2023-12-19</sub>
 * [뇌파기반 다감각전시경험 확장:과학전시물에서 예술전시로](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
-* [사용자의도인식을 위한 C-LSTM알고리즘 기반 BCI 뉴로로보틱스 시스템](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
+* [사용자의도인식을 위한 C-LSTM알고리즘 기반 BCI 뉴로로보틱스 시스템](https://drive.google.com/file/d/1YOc2IIe-1wtpZ0KzWlA3CoGHLW-7lgxu/view?usp=drive_link) <br/> <sub>2023-12-19</sub>
 
 <!-- blog ends -->
     

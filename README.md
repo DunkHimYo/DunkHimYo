@@ -117,7 +117,7 @@
 * [게임 컨텐츠와 EEG를 이용한 CNN 기반 아동 ADHD 진단 시스템](https://scholar.kyobobook.co.kr/article/detail/4010036915531) <br/> <sub>2024-01-08</sub>
 
 #### [국내학회]
-* [Deep learning model for early screening of patients with Alzheimer's disease and mild cognitive impairment using EEG-SSVEP](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
+* [Deep learning model for early screening of patients with Alzheimer's disease and mild cognitive impairment using EEG-SSVEP](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11229750&googleIPSandBox=false&mark=0&minRead=10&ipRange=false&b2cLoginYN=false&aiChatView=A&readTime=10-15&icstClss=010000&isPDFSizeAllowed=true&accessgl=Y&language=ko_KR&hasTopBanner=true) <br/> <sub>2023-12-19</sub>
 * [뇌파기반 다감각전시경험 확장:과학전시물에서 예술전시로](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
 * [사용자의도인식을 위한 C-LSTM알고리즘 기반 BCI 뉴로로보틱스 시스템](https://javascript.plainenglish.io/a-time-saving-guide-to-creating-a-react-js-project-from-scratch-50a8b4db1bed?source=rss-4430950b9342------2) <br/> <sub>2023-12-19</sub>
 

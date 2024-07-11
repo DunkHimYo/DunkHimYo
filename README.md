@@ -107,7 +107,7 @@
 
 <!-- blog starts -->
 #### [해외저널]
-* [Exploring the Relationship between Behavioral and Neurological Impairments due to Mild Cognitive Impairment: Correlation Study between Virtual Kiosk Test and EEG-SSVEP)](https://ieeexplore.ieee.org/abstract/document/10457109) <br/> <sub>2024-03-11</sub>
+* [Exploring the Relationship between Behavioral and Neurological Impairments due to Mild Cognitive Impairment: Correlation Study between Virtual Kiosk Test and EEG-SSVEP)](https://www.mdpi.com/1424-8220/24/11/3543) <br/> <sub>2024-03-11</sub>
 * [Deep learning model for early screening of  patients with Alzheimer＇s disease and mild cognitive impairment using EEG-SSVEP](https://ieeexplore.ieee.org/abstract/document/10457109) <br/> <sub>2024-03-11</sub>
 
 #### [해외학회]
